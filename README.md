@@ -16,10 +16,10 @@ I work mostly with React but enjoy keeping up-to-date all things frontend.
 <br />
 
 ### My Experiences 🙌
-- [Apprentice Frontend Developer (Moore-Wilson)](https://google.com) - (Oct'15 - Apr'18)
-- [Junior Frontend Developer (LV=)](https://google.com) - (Apr'18 - Sep'19)
-- [Frontend Developer (Spike Global)](https://google.com) - (Sep'19 - Aug'22)
-- [Senior Frontend Developer (Wordshop)](https://google.com) - (Aug'22 - Present)
+- Apprentice Frontend Developer (Oct'15 - Apr'18)
+- Junior Frontend Developer (Apr'18 - Sep'19)
+- Frontend Developer (Sep'19 - Aug'22)
+- Senior Frontend Developer (Aug'22 - Present)
 
 <br />
 
