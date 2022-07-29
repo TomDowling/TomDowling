@@ -3,19 +3,19 @@
 <br />
 
 <a href="https://www.linkedin.com/in/dowling-tom/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <br />
 
-### About Me 🚀
+# About Me 🚀
 I'm a Frontend Software Developer with around 7 years of experience.
 <br />
 I work mostly with React but enjoy keeping up-to-date all things frontend.
 
 <br />
 
-### My Experiences 🙌
+# My Experiences 🙌
 - Apprentice Frontend Developer (Oct'15 - Apr'18)
 - Junior Frontend Developer (Apr'18 - Sep'19)
 - Frontend Developer (Sep'19 - Aug'22)
@@ -24,6 +24,19 @@ I work mostly with React but enjoy keeping up-to-date all things frontend.
 <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomdowling&show_icons=true&hide_border=true)&nbsp;&nbsp;
+
+<br />
+
+# Languages ✔
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,next" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=git,firebase,materialui,netlify,nodejs,vscode" />
 
 <br />
 
