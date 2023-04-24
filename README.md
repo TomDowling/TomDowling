@@ -9,7 +9,7 @@
 <br />
 
 # About Me 🚀
-I'm a Frontend Software Developer with around 7 years of experience.
+I'm a Frontend Software Developer with over 7 years of experience.
 <br />
 I work mostly with React but enjoy keeping up-to-date all things frontend.
 
@@ -19,7 +19,8 @@ I work mostly with React but enjoy keeping up-to-date all things frontend.
 - Apprentice Frontend Developer (Oct'15 - Apr'18)
 - Junior Frontend Developer (Apr'18 - Sep'19)
 - Frontend Developer (Sep'19 - Aug'22)
-- Senior Frontend Developer (Aug'22 - Present)
+- Senior Frontend Developer (Aug'22 - Apr'23)
+- Senior React Developer (Apr'23 - Present)
 
 <br />
 
