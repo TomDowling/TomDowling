@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/dowling-tom/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://app.daily.dev/thetomo">
+  <img src="https://github.com/TomDowling/TomDowling/assets/daily-logo.png" />
+</a>
 
 <br />
 
