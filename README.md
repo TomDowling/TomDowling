@@ -24,7 +24,8 @@ I work mostly with React but enjoy keeping up-to-date all things frontend.
 - Frontend Developer (Sep'19 - Aug'22)
 - Senior Frontend Developer (Aug'22 - Apr'23)
 - Senior React Developer (Apr'23 - Aug'23)
-- Frontend Lead (Aug'23 - Now)
+- Frontend Lead (Aug'23 - Feb'24)
+- Senior Frontend Developer (Mar'24 - Now)
 
 <br />
 
